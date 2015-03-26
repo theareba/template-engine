@@ -27,3 +27,7 @@ logical and clean code that is backed by RSpec
 tests. Ideally, you will use TDD.
 
 Let me know if you have any questions.
+
+There is a simple solution to this problem and
+it should take no more than a couple hours to
+complete.
