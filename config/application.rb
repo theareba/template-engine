@@ -58,5 +58,7 @@ module TemplateEngine
 
     # Version of your assets, change this if you want to expire all your assets
     config.assets.version = '1.0'
+    #Autoload lib files
+    config.autoload_paths += %W(#{config.root}/lib)
   end
 end
